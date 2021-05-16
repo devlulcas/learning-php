@@ -1,14 +1,54 @@
 #LEARNING PHP BASICS
 ## 🤔 Questions =>
-- What php does?
+
+- What php is/has/does? 
+  - It's client side
+  - It's really linked to OOP 
+  - It's possible to create encapsulated things
+  - It's portable
+  - It has dynamic types
+  - It's open source
+  - It's fast enough
+  - Specific domain
+  - Garbage collector
+  - Web applications
+  - Dynamic content on the web
+
 - How it does it?
-- Event loop or something like that?
+  - It works with the web server
+  - When an user goes in to your website the php code is executed and it returns the info in a html file (?)
+  -----------
+  | Browser | ----http request (get index.php)----> Server with PHP enabled -> Looks for the php file -> Execute PHP code
+  -----------
+  -----------
+  | Browser | <----http response (HTML)---- Server with PHP enabled <- Looks for the php file <- Execute PHP code
+  -----------  
+  - Only the output is sent by the browser
+
+- Single core?
+  - Multi thread
+  - Blocking
+  - It is different from NodeJS
+
 - How to create a php file?
+  - Create a .php or .phtml file 
+  - <?php     bla bla bla     ?>
+
 - What can go into a php file? Html? Css? Js?
+  - Php code obviously
+  - Usually works in union with html
+
 - How to execute a php file? Is it compiled? Is it like Java? Is it interpreted or not?
+  - Interpreted
+  - With a server (Apache, caddy, nginx)
+  - XAMPP
+  - php -S localhost:port
+
 - How to display info in php? Hello World
 - How to create variables?
 - Types? Is that a thing here?
+  - Dynamic
+  - Induction of types 
 - How to assign values to variables?
 - Concatenation? + ${} f'' .format() . , ?
 - String methods?
@@ -20,6 +60,7 @@
 - Bitwise things? OR AND NOT XOR NAND
 - Ternary operator?
 - Arrays? Objects? Is it like JS or more similar to Java?
+  - An array is a dynamic structure
 - Matrices
 - Array methods?
 - Loops? for while do while ?
