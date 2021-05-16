@@ -113,4 +113,8 @@
 - World clock dashboard
 - Diary
 ## LINKS =>
-- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/trekhleb/javascript-algorithms // Algorithms (In JS... but)
+- https://www.php.net/manual/en/features.commandline.webserver.php //Basic dev PHP server
+- https://www.youtube.com/watch?v=6QGskEOIS9E // How PHP process works 
+- https://pt.wikipedia.org/wiki/PHP // Wiki Br PHP
+- shorturl.at/xIP69 // How PHP works - dummies
