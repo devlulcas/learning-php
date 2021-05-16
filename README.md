@@ -17,12 +17,14 @@
 - How it does it?
   - It works with the web server
   - When an user goes in to your website the php code is executed and it returns the info in a html file (?)
+  ```
   -----------
   | Browser | ----http request (get index.php)----> Server with PHP enabled -> Looks for the php file -> Execute PHP code
   -----------
   -----------
   | Browser | <----http response (HTML)---- Server with PHP enabled <- Looks for the php file <- Execute PHP code
   -----------  
+  ```
   - Only the output is sent by the browser
 
 - Single core?
