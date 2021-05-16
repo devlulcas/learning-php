@@ -1,0 +1,73 @@
+#LEARNING PHP BASICS
+## 🤔 Questions =>
+- What php does?
+- How it does it?
+- Event loop or something like that?
+- How to create a php file?
+- What can go into a php file? Html? Css? Js?
+- How to execute a php file? Is it compiled? Is it like Java? Is it interpreted or not?
+- How to display info in php? Hello World
+- How to create variables?
+- Types? Is that a thing here?
+- How to assign values to variables?
+- Concatenation? + ${} f'' .format() . , ?
+- String methods?
+- Basic math? + - * ** / % 
+- Handy things? -= += *= **= %= /= 
+- Math methods?
+- Logic operations?  == === > < >= <= != !== ?
+- Conditions? if, else, elseif, switch ?
+- Bitwise things? OR AND NOT XOR NAND
+- Ternary operator?
+- Arrays? Objects? Is it like JS or more similar to Java?
+- Matrices
+- Array methods?
+- Loops? for while do while ?
+- Functions? First class citizen or not?
+- Recursion?
+- How to get values?
+
+## 🚀 Projects/Algorithms (Suggestions)=>
+- "Can x age do x thing?"
+- "Calculator (no input)"
+- "Math problems - perfect numbers / even or odd / fizz buzz / progressions / prime numbers / factorial"
+- "Fibonacci" 
+- "Conversation"
+- "Calculator (input)"
+- "Matrices"
+- "Greatest common divisor - Euclidean Algorithm"
+- "Minimum common multiplier"
+- "Rad to Deg"
+- "Pascal triangle"
+- "Square root - Newtons method"
+- "Permutation - with and without repetitions"
+- "Combination sum"
+- "Lowest number missing"
+- "Knuth–Morris – Pratt Algorithm (KMP Algorithm)"
+- "Rabin Karp Algorithm"
+- "Z Algorithm"
+- "Linear Search
+- "Jump Search (or Block Search)"
+- "Binary Search"
+- "Interpolation Search" 
+- "Bubble Sort"
+- "Selection Sort"
+- "Insertion Sort"
+- "Heap Sort"
+- "Merge Sort"
+- "Quicksort - in-place and non-in-place implementations"
+- "Shell Sort"
+- "Counting Sort"
+- "Radix Sort"
+- "Caesar cipher"
+- "Vigenere cipher"
+## 🌎 Web Projects (Almost any of my ideas) =>
+- Pomodoro
+- Quiz
+- Badge generator
+- Card memory game
+- Quote generator
+- World clock dashboard
+- Diary
+## LINKS =>
+- https://github.com/trekhleb/javascript-algorithms
