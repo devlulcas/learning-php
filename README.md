@@ -46,28 +46,52 @@
   - XAMPP
   - php -S localhost:port
 
-- How to display info in php? Hello World
-- How to create variables?
-- Types? Is that a thing here?
-  - Dynamic
+- How to display info in php? Hello World - [x]
+
+- How to create variables? - [x]
+
+- Types? Is that a thing here? - [x]
+  - Dynamic - [x]
   - Induction of types 
-- How to assign values to variables?
-- Concatenation? + ${} f'' .format() . , ?
+  - Type check - [x]
+
+- How to assign values to variables? - [x]
+  - How to check if a variable is setted - [x]
+
+- Constants ? - [x]
+  - Are they really constant?
+  
+- Concatenation? + ${} f'' .format() . , ? - [x]
+
 - String methods?
+
 - Basic math? + - * ** / % 
+
 - Handy things? -= += *= **= %= /= 
+
 - Math methods?
+
 - Logic operations?  == === > < >= <= != !== ?
+
 - Conditions? if, else, elseif, switch ?
+
 - Bitwise things? OR AND NOT XOR NAND
+
 - Ternary operator?
+
 - Arrays? Objects? Is it like JS or more similar to Java?
-  - An array is a dynamic structure
+  - An array is a dynamic structure!
+
 - Matrices
+
 - Array methods?
+
 - Loops? for while do while ?
+
 - Functions? First class citizen or not?
+
 - Recursion?
+
 - How to get values?
 
 ## 🚀 Projects/Algorithms (Suggestions)=>
