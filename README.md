@@ -65,9 +65,9 @@
 
 - String methods?
 
-- Basic math? + - * ** / % 
+- Basic math? + - * ** / % - [x]
 
-- Handy things? -= += *= **= %= /= 
+- Handy things? -= += *= **= %= /= - [x] 
 
 - Math methods?
 
