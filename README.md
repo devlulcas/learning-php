@@ -59,7 +59,7 @@
   - How to check if a variable is setted - [x]
 
 - Constants ? - [x]
-  - Are they really constant?
+  - Is it really constant? -> Yes, It is.
   
 - Concatenation? + ${} f'' .format() . , ? - [x]
 
