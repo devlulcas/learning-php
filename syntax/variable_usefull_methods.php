@@ -16,8 +16,8 @@
       justify-content: center;
     }
     body {
-      height: 100vh;
-      width: 100vw;
+      min-height: 100vh;
+      max-width: 100vw;
       background-color: #0c0c0c;
     }
     h2 {
