@@ -71,6 +71,8 @@
     echo '<div class="is_type">'.$bool." is bool = ".is_bool($bool).'</div>';
     echo '<div class="is_type">'.$null." is null = ".is_null($null).'</div>';
     echo '<div class="is_type">'.$float." is float/double = ".is_float($float).'</div>';
+    echo '<div class="is_type"> "25"'." is numeric = ".is_numeric("25").'</div>';
+    echo '<div class="is_type"> "8R4Z1L"'." is numeric = ".is_numeric("8R4Z1L").'</div>';
   ?>
 
   <h2>Is Set - Return true/false if a variable is/isn't setted</h2>
