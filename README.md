@@ -43,31 +43,31 @@
 - How to execute a php file? Is it compiled? Is it like Java? Is it interpreted or not?  -[x]
   - Interpreted? What is JIT?
   - With a server (Apache, caddy, nginx)
-  - XAMPP
-  - php -S localhost:port
+  - XAMPP (That's what I'm using)
+  - php -S localhost:port (That one is cool too)
 
-- How to display info in php? Hello World - [x]
+- How to display info in php? Hello World -[x]
 
-- How to create variables? - [x]
+- How to create variables? -[x]
 
-- Types? Is that a thing here? - [x]
-  - Dynamic - [x]
+- Types? Is that a thing here? -[x]
+  - Dynamic -[x]
   - Induction of types 
-  - Type check - [x]
+  - Type check -[x]
 
-- How to assign values to variables? - [x]
-  - How to check if a variable is setted - [x]
+- How to assign values to variables? -[x]
+  - How to check if a variable is setted -[x]
 
-- Constants ? - [x]
+- Constants ? -[x]
   - Is it really constant? -> Yes, It is.
   
-- Concatenation? + ${} f'' .format() . , ? - [x]
+- Concatenation? + ${} f'' .format() . , ? -[x]
 
 - String methods? -[x]
 
-- Basic math? + - * ** / % - [x]
+- Basic math? + - * ** / % -[x]
 
-- Handy things? -= += *= **= %= /= - [x] 
+- Handy things? -= += *= **= %= /= -[x] 
 
 - Math methods? -[x]
 
@@ -79,18 +79,26 @@
 
 - Ternary operator?
 
-- Arrays? Objects? Is it like JS or more similar to Java?
+- Arrays -[x]
   - An array is a dynamic structure!
+
+- Dynamic arrays
 
 - Matrices
 
-- Array methods?
+- Array methods? -[x]
 
 - Loops? for while do while ?
 
 - Functions? First class citizen or not?
 
 - Recursion?
+
+- POO
+  - Abstraction.
+  - Encapsulation.
+  - Inheritance.
+  - Polymorphism.
 
 - How to get values?
 
