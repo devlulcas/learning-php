@@ -1,6 +1,9 @@
 <?php
 $age = 18;
-echo "My name is "."Lucas";
-echo "<br>";
-echo "and I'm ".$age." year old :D";
+$name = "Lucas";
+echo "My name is ".$name.". And I'm ".$age." :D <br>";
+echo 'My name is '.$name.'. And I\'m '.$age.' :D <br>';
+
+echo "My name is $name. And I'm $age :D <br>";
+echo 'My name is $name. And I\'m $age :D <br>';
 ?>
