@@ -1,7 +1,7 @@
 #LEARNING PHP BASICS
 ## 🤔 Questions =>
 
-- What php is/has/does? 
+- What php is/has/does? -[x]
   - It's client side
   - It's really linked to OOP 
   - It's possible to create encapsulated things
@@ -14,7 +14,7 @@
   - Web applications
   - Dynamic content on the web
 
-- How it does it?
+- How it does it? -[x]
   - It works with the web server
   - When an user goes in to your website the php code is executed and it returns the info in a html file (?)
   ```
@@ -27,21 +27,21 @@
   ```
   - Only the output is sent by the browser
 
-- Single core?
+- Single core? No... -[x]
   - Multi thread
   - Blocking
   - It is different from NodeJS
 
-- How to create a php file?
+- How to create a php file? -[x]
   - Create a .php or .phtml file 
-  - <?php     bla bla bla     ?>
+  - "<?php     bla bla bla     ?>"
 
-- What can go into a php file? Html? Css? Js?
+- What can go into a php file? Html? Css? Js? -[x]
   - Php code obviously
   - Usually works in union with html
 
-- How to execute a php file? Is it compiled? Is it like Java? Is it interpreted or not?
-  - Interpreted
+- How to execute a php file? Is it compiled? Is it like Java? Is it interpreted or not?  -[x]
+  - Interpreted? What is JIT?
   - With a server (Apache, caddy, nginx)
   - XAMPP
   - php -S localhost:port
@@ -63,13 +63,13 @@
   
 - Concatenation? + ${} f'' .format() . , ? - [x]
 
-- String methods?
+- String methods? -[x]
 
 - Basic math? + - * ** / % - [x]
 
 - Handy things? -= += *= **= %= /= - [x] 
 
-- Math methods?
+- Math methods? -[x]
 
 - Logic operations?  == === > < >= <= != !== ?
 
