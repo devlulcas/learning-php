@@ -71,24 +71,22 @@
 
 - Math methods? -[x]
 
-- Logic operations?  == === > < >= <= != !== ?
+- Arrays -[x]
+  - An array is a dynamic structure!
+  - Matrices -[x]
+  - Associative arrays -[x]
+
+- Array methods? -[x]
 
 - Conditions? if, else, elseif, switch ?
+
+- Logic operations?  == === > < >= <= != !== ?
 
 - Bitwise things? OR AND NOT XOR NAND
 
 - Ternary operator?
 
-- Arrays -[x]
-  - An array is a dynamic structure!
-
-- Dynamic arrays
-
-- Matrices
-
-- Array methods? -[x]
-
-- Loops? for while do while ?
+- Loops? for, while, do while, for each ?
 
 - Functions? First class citizen or not?
 
