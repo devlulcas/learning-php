@@ -78,13 +78,13 @@
 
 - Array methods? -[x]
 
-- Conditions? if, else, elseif, switch ?
+- Conditions? if, else, elseif, switch ? -[x]
 
-- Logic operations?  == === > < >= <= != !== ?
+- Logic operations?  == === > < >= <= != !== ? && || ! -[x]
+
+- Ternary operator? -[x]
 
 - Bitwise things? OR AND NOT XOR NAND
-
-- Ternary operator?
 
 - Loops? for, while, do while, for each ?
 
