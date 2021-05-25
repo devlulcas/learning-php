@@ -86,7 +86,7 @@
 
 - Bitwise things? OR AND NOT XOR NAND
 
-- Loops? for, while, do while, for each ?
+- Loops? for, while, do while, for each ? -[x]
 
 - Functions? First class citizen or not?
 
