@@ -98,14 +98,14 @@
     echo count($array);
   ?>
 
-  <h2>Transforma string in array - Explode</h2>
+  <h2>Transform string in array - Explode</h2>
   <pre>
     <?php
       $str_array = explode(".","b.a.n.a.n.a");
       var_dump($str_array);
     ?>
   </pre>
-  <h2>Transforma array in string - Implode</h2>
+  <h2>Transform array in string - Implode</h2>
   <pre>
     <?php
       $str_from_array = implode("-",["a","p","p","l","e"]);
